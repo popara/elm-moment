@@ -1,10 +1,10 @@
 {
     "version": "1.0.0",
-    "summary": "",
-    "repository": "https://github.com/NoRedInk/elm-moment.git",
+    "summary": "More API from MomentJS",
+    "repository": "https://github.com/popara/elm-moment.git",
     "license": "BSD-3-Clause",
     "source-directories": [
-        "src/",
+        "src/"
     ],
     "native-modules": true,
     "dependencies": {
